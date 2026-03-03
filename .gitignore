@@ -1,0 +1,9 @@
+*.DS_Store 
+*.git 
+*.db
+/bdd
+/client
+/crypto
+/go-p2p-relay
+/references
+/server
